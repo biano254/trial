@@ -1,1 +1,1 @@
-this is my persnol resume website 
+this is my persnol resume website it capture all my web-development skill .
